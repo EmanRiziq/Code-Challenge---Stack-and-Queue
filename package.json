@@ -1,0 +1,10 @@
+
+{
+  
+"scripts": {
+  "test": "jest --verbose --coverage"
+},
+  "dependencies": {
+    "jest": "^29.1.2"
+  }
+}
